@@ -6,12 +6,12 @@
   - Structured programming: 👂 heard
   - Non-structured programming: 👂 heard
   - Functional programming: 🖐️ used
-  - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 👂 heard
+  - Prototype-based programming: 🖐️ used
+  - Object-oriented programming: 🖐️ used
   - Object-based programming: 🖐️ used
   - Generic programming: 🖐️ used
   - Concurrent computing: 👂 heard
-  - Asyncronous programming: 👂 heard
+  - Asyncronous programming: 🖐️ used
   - Parallel programming: 🖐️ used
   - Reactive programming: 🖐️ used
   - FRP (Functional-reactive): 👂 heard
@@ -25,7 +25,7 @@
   - new: 🙋 explained
   - Static method: 🙋 explained
   - Method: 🙋 explained
-  - Async method: 🖐️ used
+  - Async method: 🙋 explained
   - Getters, Setters: 🙋 explained
   - Public fields: 🙋 explained
   - Private fields: 🙋 explained
@@ -38,29 +38,29 @@
   - Encapsulation: 🙋 explained
   - Hidden class: 🖐️ used
   - Object form: 🖐️ used
-  - instance: 🖐️ used
+  - instance: 🙋 explained
   - Introspection: 🖐️ used
-  - Reflection: 🖐️ used
+  - Reflection: 🙋 explained
 - Patterns
-  - Singleton: 🖐️ used
-  - Factory Method: 🎓 known
-  - Abstract Factory: 🎓 known
-  - Adapter: 👂 heard
+  - Singleton: 🙋 explained
+  - Factory Method: 🙋 explained
+  - Abstract Factory: 🙋 explained
+  - Adapter: 🖐️ used
   - Observer: 🙋 explained
-  - Strategy: 👂 heard
-  - Facade: 👂 heard
-  - Proxy: 👂 heard
-  - Chain of Responsibility: 🎓 known
+  - Strategy: 🙋 explained
+  - Facade: 🖐️ used
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🖐️ used
   - Command: 🙋 explained
-  - Iterator: 👂 heard
-  - State: 👂 heard
+  - Iterator: 🙋 explained
+  - State: 🙋 explained
   - Bridge: 🖐️ used
-  - Builder: 🎓 known
+  - Builder: 🙋 explained
   - Prototype: 🖐️ used
-  - Composite: 👂 heard
-  - Decorator: 👂 heard
-  - Flyweight: 👂 heard
-  - Mediator: 🙋 explained
-  - Memento: 👂 heard
-  - Template Method: 👂 heard
-  - Visitor: 👂 heard
+  - Composite: 🖐️ used
+  - Decorator: 🙋 explained
+  - Flyweight: 🖐️ used
+  - Mediator: 🖐️ used
+  - Memento: 🖐️ used
+  - Template Method: 🖐️ used
+  - Visitor: 🖐️ used

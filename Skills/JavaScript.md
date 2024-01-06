@@ -19,13 +19,13 @@
   - async iterator: 🖐️ used
   - chaining: 🖐️ used
   - optional chaining: 🖐️ used
-  - IIFE: 👂 heard
+  - IIFE: 🖐️ used
   - global: 🖐️ used
   - globalThis: 🖐️ used
   - window: 🖐️ used
   - getters and setters: 🖐️ used
-  - __proto__: 👂 heard
-  - prototype: 👂 heard
+  - __proto__: 🖐️ used
+  - prototype: 🖐️ used
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
   - bitwise operators: 🖐️ used
@@ -38,7 +38,7 @@
   - delete: 🖐️ used
   - in: 🖐️ used
   - super: 🖐️ used
-  - Symbol: 👂 heard
+  - Symbol: 🖐️ used
   - Reflect: 🖐️ used
 - Statements
   - if: 🙋 explained
@@ -82,8 +82,8 @@
   - Date: 🙋 explained
   - BigInt: 🙋 explained
 - Infrastructure
-  - V8: 🎓 known
-  - Node.js: 🖐️ used
-  - npm: 🖐️ used
-  - prettier: 👂 heard
+  - V8: 🙋 explained
+  - Node.js: 🙋 explained
+  - npm: 🙋 explained
+  - prettier: 🙋 explained
   - MDN: 🖐️ used

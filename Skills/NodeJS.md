@@ -21,8 +21,8 @@
   - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model: 🖐️ used
   - Isolation with modularity
-  - Dependency injection: 🖐️ used
-  - DI containers: 🖐️ used
+  - Dependency injection: 🙋 explained
+  - DI containers: 🙋 explained
   - Coupling and cohesion
   - Framework agnostic approach: 👂 heard
 - Environment
@@ -64,8 +64,8 @@
   - Isolation between layer: 🙋 explained
   - Multilayer approach: 🙋 explained
   - Separation of concerns: 🙋 explained
-  - Inversion of control: 🖐️ used
-  - Dependency injection: 🖐️ used
+  - Inversion of control: 🙋 explained
+  - Dependency injection: 🙋 explained
   - GRASP: 🖐️ used
   - SOLID: 🙋 explained
   - GoF patterns: 🖐️ used
@@ -75,7 +75,7 @@
   - DDD: 🎓 known
   - Message Queue: 🖐️ used
   - CQS: 👂 heard
-  - CQRS: 🖐️ used
+  - CQRS: 🙋 explained
   - Event sourcing: 🎓 known
   - Load balancing: 🎓 known
   - Serverless clouds: 🎓 known
@@ -96,7 +96,7 @@
   - Long polling: 🖐️ used
   - REST: 🙋 explained
   - RPC: 🖐️ used
-  - Routing: 🖐️ used
+  - Routing: 🙋 explained
   - DoS: 🎓 known
   - DDoS: 🎓 known
   - XSS
@@ -115,7 +115,7 @@
 - Technique and tools
   - Native test runner: 👂 heard
   - Logging: 🙋 explained
-  - Application configuring: 🖐️ used
+  - Application configuring: 🙋 explained
   - Testing: 🙋 explained
   - CI/CD: 🖐️ used
   - Readable: 👂 heard
@@ -136,7 +136,7 @@
   - Query builder: 🖐️ used
   - Object-Relational Mapping: 🖐️ used
 - Error handling and debugging
-  - Error: 🖐️ used
+  - Error: 🙋 explained
   - error.cause: 🖐️ used
   - error.code: 🖐️ used
   - error.message: 🖐️ used
@@ -147,7 +147,7 @@
   - Heap dump: 🖐️ used
   - Debugging tools: 🙋 explained
   - Flame graph
-  - Memory leaks: 🎓 known
+  - Memory leaks: 🙋 explained
   - Resource leaks: 👂 heard
   - Data race: 🎓 known
 - Integrations and bindings
