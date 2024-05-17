@@ -22,11 +22,11 @@
   - Thread: 🖐️ used
   - Process: 🖐️ used
 - Async contracts
-  - Callbacks: 🖐️ used
+  - Callbacks: 🙋 explained
   - Callback-last-error-first: 🖐️ used
   - Thenable: 🖐️ used
-  - Promise: 🖐️ used
-  - Async/await: 🖐️ used
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
   - Future: 🖐️ used
   - Deferred: 🖐️ used
   - Sync generator: 🖐️ used
@@ -39,7 +39,7 @@
   - Stream: 🖐️ used
   - Chain of responsibility: 🖐️ used
   - Middleware: 🙋 explained
-  - Locks: 🖐️ used
+  - Locks: 🙋 explained
 - Async adapters and utils
   - callbackify: 👂 heard
   - promisify: 👂 heard
@@ -48,9 +48,9 @@
   - async compose: 🖐️ used
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
-  - Observable/Observer: 👂 heard
-  - Readable: 🖐️ used
-  - Writable: 🖐️ used
+  - Observable/Observer: 🙋 explained
+  - Readable: 🙋 explained
+  - Writable: 🙋 explained
   - Transform: 🖐️ used
   - Async Pool: 🖐️ used
   - Async Queue: 🖐️ used
@@ -66,18 +66,18 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process: 👂 heard
-  - worker_threads: 👂 heard
+  - child_process: 🖐️ used
+  - worker_threads: 🖐️ used
   - Atomics: 👂 heard
   - High resolution clock
-  - Callback hell: 🖐️ used
-  - Promise hell: 🖐️ used
-  - ref() and unref(): 👂 heard
+  - Callback hell: 🙋 explained
+  - Promise hell: 🙋 explained
+  - ref() and unref(): 🖐️ used
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await: 🖐️ used
-  - JSON: streaming serialization: 👂 heard
-  - promisify: 👂 heard
-  - callbackify: 👂 heard
+  - JSON: streaming serialization: 🖐️ used
+  - promisify: 🖐️ used
+  - callbackify: 🖐️ used
   - AsyncLocalStorage
   - AsyncResource
 - Techniques

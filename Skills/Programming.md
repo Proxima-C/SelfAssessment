@@ -7,9 +7,9 @@
   - constant: 🙋 explained
   - scalar: 🖐️ used
   - literal: 🖐️ used
-  - expression: 🖐️ used
-  - heap: 🖐️ used
-  - function: 🖐️ used
+  - expression: 🙋 explained
+  - heap: 🙋 explained
+  - function: 🙋 explained
   - procedure: 🖐️ used
   - method: 🙋 explained
   - class: 🙋 explained
@@ -25,16 +25,16 @@
   - loops: 🙋 explained
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
-  - interface: 🖐️ used
-  - contract: 🖐️ used
+  - interface: 🙋 explained
+  - contract: 🙋 explained
   - module: 🖐️ used
-  - call stack: 🖐️ used
+  - call stack: 🙋 explained
 - Functions
-  - signature: 🖐️ used
-  - argument: 🖐️ used
-  - parameter: 🖐️ used
+  - signature: 🙋 explained
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
   - pure function: 🖐️ used
-  - lambda expression: 👂 heard
+  - lambda expression: 🖐️ used
   - side effects: 🎓 known
   - closure: 🎓 known
   - partial application: 🖐️ used
@@ -54,16 +54,16 @@
   - coroutine: 🖐️ used
 - Data structures
   - array: 🖐️ used
-  - structure: 🖐️ used
-  - record: 🖐️ used
+  - structure: 🙋 explained
+  - record: 🙋 explained
   - enum: 🙋 explained
   - instance: 🙋 explained
   - object: 🙋 explained
   - class: 🙋 explained
-  - collection: 🖐️ used
-  - set: 🖐️ used
-  - hash table: 🖐️ used
-  - linked list: 🖐️ used
+  - collection: 🙋 explained
+  - set: 🙋 explained
+  - hash table: 🙋 explained
+  - linked list: 🙋 explained
   - doubly list: 👂 heard
   - unrolled list
   - circular list
@@ -86,7 +86,7 @@
   - garbage collection: 🙋 explained
   - refactoring: 🙋 explained
   - code review: 🙋 explained
-  - antipatterns: 🎓 known
+  - antipatterns: 🙋 explained
   - paradigm: 🖐️ used
   - algorithm: 🖐️ used
   - magic numbers: 🙋 explained
@@ -95,7 +95,7 @@
   - decomposition: 🖐️ used
   - spaghetti: 🙋 explained
   - silver bullet: 🙋 explained
-  - not invented here: 🖐️ used
+  - not invented here: 🙋 explained
   - dead code: 🙋 explained
   - unreachable code: 🙋 explained
   - duplicate code: 🙋 explained
