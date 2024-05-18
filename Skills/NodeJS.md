@@ -63,7 +63,7 @@
   - Endpoint throttling: 🎓 known
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 🙋 explained
   - Protocol agnostic approach: 👂 heard
   - Fetch API: 🖐️ used
   - IncomingMessage: 🎓 known
@@ -80,12 +80,12 @@
   - Routing: 🙋 explained
   - DoS: 🎓 known
   - DDoS: 🎓 known
-  - XSS
+  - XSS: 👂 heard
   - Path traversal
-  - CSRF
+  - CSRF: 👂 heard
   - DNS: 🎓 known
   - SQL injection: 🖐️ used
-  - noDelay
+  - noDelay: 👂 heard
   - keep-alive: 🖐️ used
   - IP sticky sessions
 - Technique and tools

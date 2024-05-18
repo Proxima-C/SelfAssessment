@@ -1,100 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
+  - Modularity: 🙋 explained
+  - Components: 🙋 explained
+  - Directories: 🙋 explained
+  - GRASP: 🙋 explained
+  - SOLID: 🙋 explained
+  - GoF patterns: 🙋 explained
+  - CQS: 🙋 explained
+  - Leaking abstractions: 🙋 explained
+  - Multiparadigm code: 🙋 explained
+  - Contract programming: 🙋 explained
+  - Platform-agnostic: 🙋 explained
+  - Transport-agnostic: 🙋 explained
+  - Framework-agnostic: 🙋 explained
+  - Code coverage: 🙋 explained
   - Cohesion
-  - Coupling
+  - Coupling: 🙋 explained
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🙋 explained
+  - Quality: 🙋 explained
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
-  - Agent
+  - Isolation between layer: 🙋 explained
+  - Domain-specific language (DSL): 🙋 explained
+  - System vs applied code: 🙋 explained
+  - Multilayer approach: 🙋 explained
+  - Hexagonal architecture: 🙋 explained
+  - Separation of concerns (SoC): 🙋 explained
+  - Metaprogramming: 🙋 explained
+  - Inversion of control (IoC): 🙋 explained
+  - Dependency injection (DI): 🙋 explained
+  - Clean architecture: 🙋 explained
+  - Domain-driven design (DDD): 🙋 explained
+  - Pub/sub: 🙋 explained
+  - Message brocker: 🙋 explained
+  - Agent: 👂 heard
   - Service locator
   - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
+  - CQRS: 🙋 explained
+  - Event sourcing: 🙋 explained
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram: 🙋 explained
   - IDEF1X
-  - UML
-  - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
+  - UML: 🙋 explained
+  - Work breakdown structure: 🙋 explained
+  - Budget estimation: 🙋 explained
+  - Distributed systems: 🙋 explained
+  - High-intensive computing: 🙋 explained
+  - Load balancing: 🙋 explained
+  - Gateways: 🙋 explained
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Vendor lock-in
+  - IaaS: 🙋 explained
+  - PaaS: 🙋 explained
+  - SaaS: 🙋 explained
+  - FaaS clouds: 🙋 explained
+  - Serverless: 🙋 explained
+  - Vendor lock-in: 👂 heard
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
-  - BPMN
-  - Low-code
-  - No-code
-  - Metric
-  - Metric abuse
-  - ACID
-  - CAP theorem
+  - A software requirements specification (SRS): 🙋 explained
+  - Solution visions: 🙋 explained
+  - Solution capabilities: 🙋 explained
+  - System design: 🙋 explained
+  - Process modelling: 🙋 explained
+  - Data modelling: 🙋 explained
+  - Solution components: 🙋 explained
+  - Risk assessment: 🙋 explained
+  - Non Functional Requirements (NFR): 🙋 explained
+  - Clouds: 🙋 explained
+  - BPMN: 👂 heard
+  - Low-code: 🙋 explained
+  - No-code: 🙋 explained
+  - Metric: 🙋 explained
+  - Metric abuse: 🙋 explained
+  - ACID: 🙋 explained
+  - CAP theorem: 🙋 explained
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
-  - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
-  - Process choreography
-  - Service orchestration
-  - Data warehouse
-  - Business Intelligence
+  - Understanding business needs: 🙋 explained
+  - Enterprise strategy: 🙋 explained
+  - Integration with subsystems: 🙋 explained
+  - Enterprise vision: 🙋 explained
+  - Enterprise capabilities: 🙋 explained
+  - Project scope: 🙋 explained
+  - Enterprise service bus: 🙋 explained
+  - Service-oriented architecture: 🙋 explained
+  - Microservices: 🙋 explained
+  - Process choreography: 👂 heard
+  - Service orchestration: 🙋 explained
+  - Data warehouse: 👂 heard
+  - Business Intelligence: 🙋 explained
   - OLAP
   - OLTP
-  - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - Conways Law: 👂 heard
+  - Quality assurance: 🙋 explained
+  - Engineering Hygiene: 🙋 explained

@@ -116,17 +116,17 @@
   - Hash table: 🙋 explained
   - Linked list: 🙋 explained
   - Doubly list: 👂 heard
-  - Unrolled list
-  - Circular list
-  - Queue: 🖐️ used
-  - Stack: 🖐️ used
+  - Unrolled list: 👂 heard
+  - Circular list: 🖐️ used
+  - Queue: 🙋 explained
+  - Stack: 🙋 explained
   - Deque: 👂 heard
-  - Tree: 🖐️ used
-  - Graph: 🖐️ used
+  - Tree: 🙋 explained
+  - Graph: 🙋 explained
   - Iterator: 🙋 explained
   - Mutable state: 🖐️ used
-  - Immutable state: 👂 heard
-  - Serialization: 👂 heard
+  - Immutable state: 🖐️ used
+  - Serialization: 🖐️ used
   - String parsing: 🖐️ used
   - JSON: 🙋 explained
   - JSON5: 🙋 explained
@@ -208,10 +208,10 @@
   - CLR: 🙋 explained
   - Mono: 🖐️ used
 - Operating systems
-  - Interrupts
+  - Interrupts: 👂 heard
   - Drivers: 🖐️ used
   - Kernel: 🖐️ used
-  - Ring
+  - Ring: 👂 heard
   - Virtual memory: 🖐️ used
   - File system: 🖐️ used
   - Linux: 🖐️ used

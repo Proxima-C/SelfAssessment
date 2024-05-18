@@ -3,8 +3,8 @@
 - Theory
   - Procedural programming: 🖐️ used
   - Imperative programming: 🖐️ used
-  - Structured programming: 👂 heard
-  - Non-structured programming: 👂 heard
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🖐️ used
   - Functional programming: 🖐️ used
   - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
@@ -16,8 +16,8 @@
   - Reactive programming: 🖐️ used
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
-  - Domain-specific languages: 👂 heard
-  - Multi-paradigm programming: 👂 heard
+  - Domain-specific languages: 🖐️ used
+  - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 👂 heard
   - Actor model: 🖐️ used
   - Lambda calculus: 👂 heard
@@ -25,7 +25,7 @@
   - Information hiding: 🖐️ used
   - Aspect-oriented programming: 👂 heard
   - Anemic domain model: 👂 heard
-  - Class composition: 👂 heard
+  - Class composition: 🖐️ used
 - OOP basics
   - Constructor: 🙋 explained
   - Operator `new`: 🙋 explained
@@ -67,7 +67,7 @@
   - Singleton: 🙋 explained
   - Factory Method: 🙋 explained
   - Abstract Factory: 🙋 explained
-  - Adapter: 🖐️ used
+  - Adapter: 🙋 explained
   - Observer: 🙋 explained
   - Strategy: 🙋 explained
   - Facade: 🖐️ used
@@ -84,8 +84,8 @@
   - Flyweight: 🖐️ used
   - Mediator: 🙋 explained
   - Memento: 🖐️ used
-  - Template Method
+  - Template Method: 🖐️ used
   - Visitor: 🙋 explained
   - Reactor: 🙋 explained
-  - Active object
+  - Active object: 🖐️ used
   - Delegation: 🙋 explained
