@@ -1,66 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🖐️ used
-  - Imperative programming: 🖐️ used
-  - Structured programming: 👂 heard
-  - Non-structured programming: 👂 heard
-  - Functional programming: 🖐️ used
-  - Prototype-based programming: 🖐️ used
-  - Object-oriented programming: 🖐️ used
-  - Object-based programming: 🖐️ used
-  - Generic programming: 🖐️ used
-  - Concurrent computing: 👂 heard
-  - Asyncronous programming: 🖐️ used
-  - Parallel programming: 🖐️ used
-  - Reactive programming: 🖐️ used
-  - FRP (Functional-reactive): 👂 heard
-  - Automata-based programming: 👂 heard
-  - Domain-specific languages: 👂 heard
-  - Multi-paradigm programming: 👂 heard
-  - Metaprogramming: 👂 heard
-  - Actor model: 👂 heard
+  - Procedural programming
+  - Imperative programming
+  - Structured programming
+  - Non-structured programming
+  - Functional programming
+  - Prototype-based programming
+  - Object-oriented programming
+  - Object-based programming
+  - Generic programming
+  - Concurrent computing
+  - Asynchronous programming
+  - Parallel programming
+  - Reactive programming
+  - Functional-reactive (FRP)
+  - Automata-based programming
+  - Domain-specific languages
+  - Multi-paradigm programming
+  - Metaprogramming
+  - Actor model
+  - Lambda calculus
+  - Black box
+  - Information hiding
+  - Aspect-oriented programming
+  - Anemic domain model
+  - Class composition
 - OOP basics
-  - constructor: 🙋 explained
-  - new: 🙋 explained
-  - Static method: 🙋 explained
-  - Method: 🙋 explained
-  - Async method: 🙋 explained
-  - Getters, Setters: 🙋 explained
-  - Public fields: 🙋 explained
-  - Private fields: 🙋 explained
-  - Field declarations: 🙋 explained
-  - Inheritance: 🙋 explained
-  - Parent class: 🙋 explained
-  - Polymorphism: 🙋 explained
-  - Abstract class: 🙋 explained
-  - Interface: 🙋 explained
-  - Encapsulation: 🙋 explained
-  - Hidden class: 🖐️ used
-  - Object form: 🖐️ used
-  - instance: 🙋 explained
-  - Introspection: 🖐️ used
-  - Reflection: 🙋 explained
+  - Constructor
+  - Operator `new`
+  - Static method
+  - Method
+  - Async method
+  - Getters, Setters
+  - Public fields
+  - Private fields
+  - Field declarations
+  - Inheritance
+  - Parent class
+  - Polymorphism
+  - Abstract class
+  - Interface
+  - Encapsulation
+  - Hidden class
+  - Object form
+  - Instance
+  - Introspection
+  - Reflection
+  - The diamond problem
+- GRASP
+  - Information expert
+  - Creator
+  - Controller
+  - Indirection
+  - Low coupling
+  - High cohesion
+  - Protected variations
+  - Pure fabrication
+- SOLID
+  - Single-responsibility principle (SRP)
+  - Open–closed principle (OCP)
+  - Liskov substitution principle (LSP)
+  - Interface segregation principle (ISP)
+  - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton: 🙋 explained
-  - Factory Method: 🙋 explained
-  - Abstract Factory: 🙋 explained
-  - Adapter: 🖐️ used
-  - Observer: 🙋 explained
-  - Strategy: 🙋 explained
-  - Facade: 🖐️ used
-  - Proxy: 🖐️ used
-  - Chain of Responsibility: 🖐️ used
-  - Command: 🙋 explained
-  - Iterator: 🙋 explained
-  - State: 🙋 explained
-  - Bridge: 🖐️ used
-  - Builder: 🙋 explained
-  - Prototype: 🖐️ used
-  - Composite: 🖐️ used
-  - Decorator: 🙋 explained
-  - Flyweight: 🖐️ used
-  - Mediator: 🖐️ used
-  - Memento: 🖐️ used
-  - Template Method: 🖐️ used
-  - Visitor: 🖐️ used
+  - Singleton
+  - Factory Method
+  - Abstract Factory
+  - Adapter
+  - Observer
+  - Strategy
+  - Facade
+  - Proxy
+  - Chain of Responsibility
+  - Command
+  - Iterator
+  - State
+  - Bridge
+  - Builder
+  - Prototype
+  - Composite
+  - Decorator
+  - Flyweight
+  - Mediator
+  - Memento
+  - Template Method
+  - Visitor
+  - Reactor
+  - Active object
+  - Delegation
